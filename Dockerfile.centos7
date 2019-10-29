@@ -1,3 +1,5 @@
+# Based on:
+# https://github.com/bassemZohdy/DockerCentosSudo
 FROM centos:7
 ARG user=user
 ARG password=password
