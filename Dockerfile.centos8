@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:8
 ARG user=user
 ARG password=password
 RUN yum -y install sudo curl \
